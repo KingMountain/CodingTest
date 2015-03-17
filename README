@@ -1,1 +1,4 @@
-Hello world
+git add .
+git commit -m "message"
+git remote add origin git@github.com:KingMountain/WifiLocation.git
+git push origin master
